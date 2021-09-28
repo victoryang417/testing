@@ -1,0 +1,6 @@
+{
+  "extends": "./tsconfig",
+  "files": [],
+  "include": [],
+  "references": [{ "path": "packages/core" }]
+}
